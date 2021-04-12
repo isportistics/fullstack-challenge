@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cubo.network/assets/images/cubo.svg" width="200">
+  <img src="https://isportistics.com/wp-content/themes/bridge/img/logo_white.png" width="200">
 </p>
 
 # { "developer": "fullstack" }
@@ -8,9 +8,9 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 
 ## Rules
 
-1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
-2. Send the link to dev@cubo.network;
-3. We use Angular and Node.js with Serverless, but you can feel free to choose other technologies;
+1. Your code should be made available in a public or private repository, on your personal github, gitlab or bitbucket;
+2. Send the link to mauricio@isportistics.com;
+3. We use HTML5, CSS, JavaScript, jQuery, Bootstrap and Python. It is preferable to use these technologies, but you can contact us if you don't know any of them and want to develop with another technology.
 
 ## Challenge
 
@@ -39,4 +39,4 @@ Feel free to make improviments like new funcionalities, visual optimizations, AP
 
 ## Questions?
 
-Send your questions directly to dev@cubo.network or opening a issue.
+Send your questions directly to mauricio@isportistics.com or opening an issue.
