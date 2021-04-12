@@ -10,7 +10,7 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 
 1. Your code should be made available in a public or private repository, on your personal github, gitlab or bitbucket;
 2. Send the link to mauricio@isportistics.com;
-3. We use HTML5, CSS, JavaScript, jQuery, Bootstrap and Python. It is preferable to use these technologies, but you can contact us if you don't know any of them and want to develop with another technology.
+3. We use HTML5, CSS3, JavaScript, jQuery, Bootstrap and Python/Flask. It is preferable to use these technologies, but you can contact us if you don't know any of them and want to develop with another technology.
 
 ## Challenge
 
