@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://isportistics.com/wp-content/themes/bridge/img/logo_white.png" width="200">
+  <img src="https://isportistics.com//wp-content/uploads/2019/10/2.png">
 </p>
 
 # { "developer": "fullstack" }
